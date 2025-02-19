@@ -77,7 +77,7 @@ I love merging creativity with technology, whether it's through **design, develo
 
 
 🔗 **Profile Views**  
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=TanaySingh02&color=blue)  
 
 🔥 **"Build. Break. Learn. Repeat."**  
 
