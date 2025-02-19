@@ -30,7 +30,7 @@ I love tackling real-world challenges through code and building solutions that m
 🌍 **Exploring:** Web & App Development | DSA | Scalable Tech Solutions  
 📖 **Staying Updated Through:** Tech blogs, Developer Communities on **LinkedIn, Twitter, Instagram**, and Tech YouTube channels  
 
----
+
 
 ## 🎮 Outside the Code  
 
@@ -39,7 +39,7 @@ I love tackling real-world challenges through code and building solutions that m
 
 I love merging creativity with technology, whether it's through **design, development, or content creation**!  
 
----
+
 
 ## 🌐 Connect with Me  
 
@@ -48,7 +48,7 @@ I love merging creativity with technology, whether it's through **design, develo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/your-username)  
 
----
+
 
 ## 💻 Tech Stack  
 
@@ -60,27 +60,26 @@ I love merging creativity with technology, whether it's through **design, develo
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
----
+
 
 ## 📊 GitHub Stats  
 
-![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=dark&hide_border=false&layout=compact)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=false)  
+![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanaySingh02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanaySingh02&theme=dark&hide_border=false&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanaySingh02&theme=dark&hide_border=false)  
 
----
+
 
 ### ✍️ Random Dev Quote  
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
----
+
 
 🔗 **Profile Views**  
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
 
 🔥 **"Build. Break. Learn. Repeat."**  
 
----
 
-### 🚀 Now, just replace `"your-username"` and `"your-profile"` with your actual GitHub and LinkedIn usernames! Let me know if you want any modifications. 😎
+
