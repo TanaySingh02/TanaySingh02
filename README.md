@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm **Tanay Singh Parihar**  
 
-🚀 **Problem Solver | Keen Learner | Aspiring Software Engineer**  
+🚀 **Problem Solver | Keen Learner | Aspiring Software Engineer | Web Developer**  
 
 I love tackling real-world challenges through code and building solutions that make an impact. With a strong foundation in **Data Structures & Algorithms (DSA), Web Development, and App Development**, I'm currently diving deep into the **MERN stack** to refine my full-stack skills.  
 
